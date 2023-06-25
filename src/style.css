@@ -70,3 +70,11 @@ button:focus-visible {
 		background-color: #f9f9f9;
 	}
 }
+html,
+body,
+#app {
+	width: 200px;
+	height: 500px;
+	padding: 0;
+	margin: 0;
+}
